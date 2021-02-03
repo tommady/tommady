@@ -1,8 +1,8 @@
 ### 🙂 Hey Hi 🙃
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=tommady&show_icons=true&count_private=true&hide=contribs&include_all_commits=true&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tommady&show_icons=true&count_private=true&hide=contribs&include_all_commits=true&layout=compact&theme=dracula" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommady&&layout=compact&hide=Jupyter Notebook&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommady&layout=compact&hide=Jupyter Notebook&theme=dracula" />
 
 
 <!--
